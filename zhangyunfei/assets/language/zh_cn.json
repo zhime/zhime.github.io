@@ -1,0 +1,175 @@
+zh_cn({
+	"basicInfo": {
+		"name": "张云飞 ♂ 男",
+		"title": "☆ 系统运维工程师 ☆ 云计算运维工程师",
+		"icon": "./assets/images/shouye.jpg",
+		"profileInfo": "本人做事勤恳、细心，具有较强的工作责任心，能承受较大的工作压力。具有很强的团队精神，有良好的组织、协调和沟通能力，有强烈的集体荣誉感。自学能力强，喜欢钻研新技术，敢于面对和克服困难。积极上进，吃苦耐劳，有良好的职业素养。我始终坚信唯有付出，方有收获，天道酬勤，想要成功，就要脚踏实地。",
+		"email": "zhangyunfeimail@163.com",
+		"mobile": "18580719172",
+		"qq": "931013000",
+		"weixin": "18580719172",
+		"weibo": "18580719172",
+		"github": "931013000@qq.com",
+		"website": "https://zhangyunfei.top",
+		"resumeUrl": "./assets/张云飞.doc",
+		"resumeName": "张云飞.doc",
+		"authorTitle": "作者",
+		"authorValue": "张云飞",
+		"sourceCode": "源码下载"
+	},
+	"experiences": {
+		"navTitle": "工作经验",
+		"sectionTitle": "工作经验",
+		"workExperiences": [{
+                        "place": "浙江满趣科技有限公司",
+                        "location": "杭州",
+                        "title": "运维工程师 研发部",
+                        "industry": "互联网/电商平台",
+                        "time": "2021/12 - 至今",
+                        "jobDesc": "负责阿里云容器服务(k8s)管理及维护；阿里云ECS、云解析、RDS等云产品管理及维护；公司Jenkins项目配置及维护；ElasticSearch、Kibana部署及维护。"
+                }, {
+                        "place": "炜呈智能电力(杭州)科技有限公司",
+                        "location": "杭州",
+                        "title": "运维工程师 技术部",
+                        "industry": "计算机软件/软件供应商",
+                        "time": "2020/8 - 2021/11",
+                        "jobDesc": "负责公司 Rancher 平台下 k8s 集群部署管理，服务部署维护。如 Openladp、Jenkins、 Gitlab 及公司自研服务等；服务器管理，通过 ESXI 虚拟多台虚机，操作系统安装固化，将虚机加入 Jumpserver 资产并授权；机房日常巡检工作。"
+                }, {
+			"place": "北京尚博信科技有限公司",
+			"location": "河南",
+			"title": "运维工程师 软件开发部",
+			"industry": "计算机软件/服务供应商",
+			"time": "2018/5 - 2020/7",	
+			"jobDesc": "作为运维工程师，负责河南项目智慧加油站系统的部署及维护，项目基于智慧加油系统，实现能源行业信息化，通过互联网营销平台，为客户提供一站式全方位加油站运营管理平台。智能油品营销为客户提供电子商务平台、客户关系管理系统、营销支撑工具及营销分析报表。项目实施过程中，负责Linux系统安装及Shell脚本编写，测试环境搭建，Windows、Linux下系统软件的部署及维护，软件功能测试及版本升级，并协助开发对所提Bug进行修改和验证，跟踪Bug解决，系统数据库的增删改查及备份还原，Zabbix监控软件安装部署及配置，加油河南app测试及后台商品发布管理，不定时的奔赴客户现场，进行相关的技术支持和咨询，帮助和引导客户更好的使用系统。"
+		}, {
+			"place": "富泰华精密电子有限公司",
+			"location": "河南",
+			"title": "制程工程师 制程设计开发部",
+			"industry": "机械/精密电子",
+			"time": "2015/5 - 2018/4",
+			"jobDesc": "负责公司新产品光电治具检具设计，机器和生产线自动化改造，旧治具检具改进维护，以降低制作成本。根据生产需求，对设备进行设计，开发，调试以及可行性评估。负责设备的转移，安装调试和相关文件的建立，与各部门人员沟通，探讨生产存在的问题，解决改善制程问题。"
+		}]
+	},
+	"projects": {
+		"navTitle": "项目经验",
+		"sectionTitle": "项目经验",
+		"projectEnv": "技术环境",
+		"projectDesc": "项目描述",
+		"responsibilityDesc": "工作描述",
+		"projectExperiences": [{
+			"name": "河南智慧加油站系统",
+			"location": "河南",
+			"title": "运维工程师 软件开发部",
+			"industry": "计算机软件/服务供应商",
+			"time": "2018.5 - 2020.7",	
+			"env": "CentOS7.6 + Jdk1.8 + MySQL5.7 + Zabbix4.0 + Httpd2.4",	
+			"desc": "河南智慧加油系统，基于智慧加油系统，实现能源行业信息化，通过互联网营销平台，为客户提供一站式全方位加油站运营管理平台。智能油品营销为客户提供电子商务平台、客户关系管理系统、营销支撑工具及营销分析报表。智慧加油系统在服务端启动后，从中控系统获取油站加油流水，通过无线防爆终端或客户端展示未收银及已收银流水，油站人员可通过终端或客户端对未收银流水收银并写进数据库上传云中心。加油河南app实现油品及非油品销售，并将数据上传云中心，为车主和油站提供便捷。互联网营销平台从云中心数据库抽取数据，为客户展示会员注册活跃报表分析、营销分析报表、财务报表分析等。",
+			"responsibility": "作为运维工程师，负责CentOS7.6系统安装，测试环境搭建，Shell脚本编写，Jdk1.8、MySQL5.7、Zabbix4.0、Httpd2.4等软件安装部署及维护，系统功能测试及版本升级，并协助开发对所提Bug进行修改和验证，跟踪Bug解决，系统数据库的增删改查及备份还原，加油河南app测试及后台商品发布管理，不定时的奔赴客户现场，进行相关的技术支持和咨询，帮助和引导客户更好的使用系统。"
+		}]
+	},
+	"education": {
+		"navTitle": "教育经历",
+		"sectionTitle": "教育经历",
+		"educations": [{
+			"educationBody": "河南工学院",
+			"degree": "大学/大专--机械制造及自动化",
+			"time": "2012/09 - 2015/07 ",
+			"desc": ""
+		}]
+	},
+	"skills": {
+		"navTitle": "专业技能",
+		"sectionTitle": "专业技能",
+		"topSkills": [{
+			"name": "Linux",
+			"percent": "90",
+			"level": "Expert, 3+ years",
+			"time": "2018 - Present",
+			"desc": "desc here."
+		}, {
+			"name": "Kubernetes",
+			"percent": "85",
+			"level": "Expert, 2+ years",
+			"time": "2019 - Present",
+			"desc": "desc here."
+		}, {
+			"name": "MySQL",
+			"percent": "85",
+			"level": "Expert, 3+ years",
+			"time": "2018 - Present",
+			"desc": "desc here."
+		}],
+		"otherSkills": [{
+			"name": "HTML5"
+		}, {
+			"name": "CSS3"
+		}],
+		"skillItems": [{
+			"name": "☆ 熟悉Linux系统，熟练掌握常用的系统运维命令及基础网络配置。"
+		}, {
+			"name": "☆ 熟练部署配置Linux基本服务，如Nfs、Vsftp、Samba服务等。"
+		}, {
+			"name": "☆ 熟悉VMware虚拟化、云计算相关知识，掌握Kubernetes、Docker容器技术环境搭建及使用。"
+		}, {
+			"name": "☆ 掌握MySQL数据库数据的增、删、改、查及MySQL数据库的备份还原、主从复制。"
+		}, {
+			"name": "☆ 熟悉日志、监控、自动化运维工具的使用ELK、Zabbix、Ansible、Jenkins、Gitlab。"
+		}, {
+			"name": "☆ 熟悉消息中间件kafka、rocketmq、rabbitmq。"
+		}, {
+			"name": "☆ 熟悉Shell、Python、Django框架。"
+		}]
+	},
+	"portfolio": {
+		"navTitle": "作品展示",
+		"sectionTitle": "作品展示",
+		"categories": [{
+			"name": "ops",
+			"title": "运维",
+			"desc": "后端项目"
+		}, {
+			"name": "dev",
+			"title": "开发",
+			"desc": "前端项目"
+		}],
+		"portfolios": [{
+			"img": "assets/images/portfolio/portfolio-1.jpg",
+			"title": "Linux",
+			"category": "ops",
+			"technique": "系统",
+			"desc": "Linux 基础",
+			"url": "./linux/linux.html"
+		}, {
+			"img": "assets/images/portfolio/portfolio-1.jpg",
+			"title": "kubernetes",
+			"category": "ops",
+			"technique": "容器",
+			"desc": "kubernetes 环境搭建和使用",
+			"url": "./kubernetes/kubernetes.html"
+		}, {
+			"img": "assets/images/portfolio/portfolio-1.jpg",
+			"title": "zabbix",
+			"category": "ops",
+			"technique": "监控",
+			"desc": "zabbix 搭建配置",
+			"url": "./zabbix/zabbix.html"
+		}, {
+			"img": "assets/images/portfolio/portfolio-1.jpg",
+			"title": "Spring Boot",
+			"category": "dev",
+			"technique": "开发",
+			"desc": "Spring Boot 笔记",
+			"url": "./spring-boot/spring-boot.html"
+		}]
+	},
+	"contact": {
+		"navTitle": "联系方式",
+		"sectionTitle": "联系方式",
+		"notice": "我目前居住在杭州，正在寻找合适的工作。",
+		"message": "欢迎给我留言",
+		"call": "或者致电",
+		"thanks": "，感谢您的访问。",
+		"provideServices": "",
+		"services": []
+	}
+})
